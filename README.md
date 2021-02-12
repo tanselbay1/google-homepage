@@ -1,0 +1,1 @@
+trying and learning about git and first html project in The Odin Project
